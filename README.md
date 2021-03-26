@@ -1,6 +1,9 @@
 # flutter_soft_ui
 
-A new Flutter application.
+Music Player UI using Flutter
+
+![Screenshot_1616743121](https://user-images.githubusercontent.com/61883398/112596394-c257ae80-8e31-11eb-89f5-ca6ea0f1d524.png)
+
 
 ## Getting Started
 
